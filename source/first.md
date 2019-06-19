@@ -10,3 +10,11 @@ excerpt: これは抜粋です。
 
 ## 何を書けば良いか問題
 これが、続けていく上で一番の問題です。
+
+```javascript
+for(let i=0; i<5; i++) {
+
+    console.log(i);
+
+}
+```
